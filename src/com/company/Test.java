@@ -5,6 +5,7 @@ package com.company;
  */
 public class Test {
     public static void main(String[] args) {
+		System.out.println("执行555");
         System.out.println("执行111");
         System.out.println("执行22");
     }
